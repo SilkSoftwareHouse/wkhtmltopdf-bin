@@ -1,0 +1,7 @@
+{
+	"name" : "silksh/wkhtmltopdf-bin",
+	"description" : "Binary distribution of wkhtmltopdf.",
+	"bin" : [
+		"bin/wkhtmltopdf-amd64-linux"
+	]
+}
