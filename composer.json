@@ -2,6 +2,7 @@
 	"name" : "silksh/wkhtmltopdf-bin",
 	"description" : "Binary distribution of wkhtmltopdf.",
 	"bin" : [
-		"bin/wkhtmltopdf-amd64-linux"
+		"bin/wkhtmltopdf-amd64-linux",
+		"bin/wkhtmltopdf-ia32-win32.exe"
 	]
 }
